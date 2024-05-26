@@ -1,0 +1,35 @@
+.parent{
+        margin: 1rem;
+        background-image: url('../../assets/img/photo4.avif');
+        background-size: cover;
+
+}
+
+
+.auth{
+    margin-top: -4rem;
+    column-count: 2;
+}
+
+.auth.login{
+    /* gap: 1rem; */
+    margin-right: 1rem;
+}
+
+.intro{
+    margin-top: 6rem;
+}
+
+.intro.int{
+    letter-spacing: .7rem;
+}
+
+
+.search{
+    margin-top: -3rem;
+    margin-left: 19rem;
+}
+
+.post{
+    margin-top: 2rem;
+}
